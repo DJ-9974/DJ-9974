@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Kolli%20Dheeraj&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 </div>
 
@@ -31,9 +31,9 @@
 
 I am **Kolli Dheeraj (Dheeraj Kolli)**, a Computer Science & Engineering student at **VIT-AP University (2023–2027)**, specializing in **AI/Machine Learning, Computer Vision, Full-Stack Development, and Systems Engineering**.
 
-My engineering philosophy combines mathematical precision with clean, scalable software architecture. I focus on building production-grade software applications — ranging from **AI decision intelligence platforms** (Spring Boot 4 / Java 17 + PostgreSQL) to **deep learning computer vision tracking systems** (PyTorch CNN/RNN) and **high-performance interactive web interfaces** (React 18 / Vite / Canvas).
+My engineering philosophy combines mathematical precision with clean, scalable software architecture. I focus on building production-grade software applications — ranging from **AI decision intelligence platforms** (Spring Boot / Java 17 + PostgreSQL) to **deep learning computer vision tracking systems** (PyTorch CNN/RNN) and **high-performance interactive web interfaces** (React 18 / Vite / Canvas).
 
-- 🎯 **Core Focus**: AI/ML Systems Architecture, Enterprise Full-Stack Engineering, Computer Vision.
+- 🧠 **Core Focus**: AI/ML Systems Architecture, Enterprise Full-Stack Engineering, Computer Vision.
 - 🎓 **Academic Background**: B.Tech in Computer Science and Engineering, VIT-AP University.
 - 🛠️ **Engineering Mindset**: Production-first design, deterministic system behavior, modular multi-tier architecture, and clean code principles.
 
@@ -48,40 +48,24 @@ My engineering philosophy combines mathematical precision with clean, scalable s
 
 ### 🌐 Frontend Engineering
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css,js&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs,css,html,js&theme=dark" alt="Frontend" />
 </p>
 
-### ⚙️ Backend & Databases
+### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,postgres,hibernate&theme=dark" alt="Backend & Databases" />
+  <img src="https://skillicons.dev/icons?i=spring,java,express,nodejs,postgres,hibernate&theme=dark" alt="Backend" />
 </p>
 
-### 🧠 AI / Machine Learning & Computer Vision
+### 🤖 AI, Data & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,opencv&theme=dark" alt="AI / ML" />
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,git,github,docker,postman,vscode&theme=dark" alt="Tools" />
 </p>
-
-### 📦 DevOps, Tooling & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,maven,vscode,idea,postman,linux&theme=dark" alt="DevOps & Tools" />
-</p>
-
----
-
-## 🧠 AI / ML Expertise & Systems Engineering
-
-| Domain | Focus & Application | Key Technologies & Methods |
-|---|---|---|
-| **Computer Vision** | Longitudinal feature extraction & medical image tracking | PyTorch, OpenCV, Convolutional Neural Networks (CNN) |
-| **Sequence Modeling** | Temporal disease progression time-series modeling | Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM) |
-| **Decision Intelligence** | Business anomaly detection & trend forecasting engines | Statistical Correlation, Metric Anomaly Scoring, Trend Projection |
-| **Applied ML Integration** | Embedding trained ML models into REST APIs & multi-tier web stacks | Python, Flask, Spring Boot REST Endpoints, JSON Exchange |
 
 ---
 
 ## 🚀 Featured Engineering Projects
 
-<details>
+<details open>
 <summary><strong>1. VYQOR — AI Decision Intelligence Platform</strong></summary>
 
 <br>
@@ -92,15 +76,15 @@ My engineering philosophy combines mathematical precision with clean, scalable s
 |---|---|
 | **Backend Stack** | Java 17, Spring Boot 4.1.0, Spring Data JPA, Spring Security (JWT), Apache Commons CSV |
 | **Frontend Stack** | React 18 SPA, Vite, Chart.js, Lucide Icons, Spatial Intelligence UI |
-| **Database & Migration** | PostgreSQL, Flyway Schema Migrations (V1__init_schema.sql), Hibernate Validation |
+| **Database & Migration** | PostgreSQL, Flyway Schema Migrations (`V1__init_schema.sql`), Hibernate Validation |
 | **Security Architecture** | JJWT 0.12.6, BCrypt Hashing, Refresh Token Rotation, Role-Based Access Control |
 | **Deployment Stack** | Docker Compose multi-container stack (PostgreSQL, Spring Boot backend, Nginx frontend) |
 | **Repository** | [github.com/DJ-9974/ai-decision-intelligence-platform](https://github.com/DJ-9974/ai-decision-intelligence-platform) |
 
 #### Engineering Highlights
-- **Deterministic AI Engine**: Modular LocalAiInsightProvider that computes metric distribution statistics, correlation matrices, anomaly scores, and linear trend projections.
+- **Deterministic AI Engine**: Modular `LocalAiInsightProvider` computing metric distribution statistics, correlation matrices, anomaly scores, and linear trend projections.
 - **Containerized Pipeline**: Multi-stage Docker builds orchestrating Nginx reverse proxy serving static React SPA assets while proxying API requests to Spring Boot.
-- **API Standards**: Documented via OpenAPI / Swagger UI (springdoc-openapi) with JWT Bearer security scheme.
+- **API Standards**: Documented via OpenAPI / Swagger UI (`springdoc-openapi`) with JWT Bearer security scheme.
 
 </details>
 
@@ -203,21 +187,9 @@ An interactive personal engineering portfolio featuring a 600+ frame canvas scro
 
 ---
 
-## 🐍 Contribution Graph
+## 💡 Current Focus
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DJ-9974/DJ-9974/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DJ-9974/DJ-9974/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/DJ-9974/DJ-9974/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## ⚡ Current Focus
-
-`yaml
+```yaml
 current_focus:
   learning:
     - Advanced Deep Learning Architecture & Transformer Models
@@ -230,7 +202,7 @@ current_focus:
     - Cloud-Native Architecture & Containerized Workflows
   open_to:
     - Software Engineering Internships & Full-Stack / AI/ML Collaborations
-`
+```
 
 ---
 
